@@ -1,7 +1,7 @@
-# Cloud Engineering & Automation Track
+# Cloud Engineering Learning Track
 
-Hands-on preparation for Cloud Operations and Infrastructure roles.
-Topics: Linux, Networking, Python Automation, Git, and Cloud.
+Hands-on practical engineering log covering Linux, Networking, Python Automation, and Git.
 
 ## Daily Progress Log
-* Day 1: Workspace setup, Git initialization, and GitHub remote connection.
+* Workspace configured as `cloud-engineering-learning`.
+* Environment set up with IDLE and Ubuntu terminal ready for foundational Python scripting.
