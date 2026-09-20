@@ -11,3 +11,8 @@ disk_limit = 80.0
 is_production = True
 log_filename = "system_health.log"
 timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+# Pull live disk metrics
+total, used, free = shutil.disk_usage("/")
+current_disk_usage = round((used / total) * 100, 2)
+trigger_alert = is_production and (current_disk_usage > disk_limit)
