@@ -20,3 +20,12 @@ def probe_tcp_port(host, port, timeout_sec=2.0):
         return False
 
 is_service_reachable = probe_tcp_port(target_probe_host, target_probe_port)
+
+print("========================================")
+print("NETWORK LAYER 3 / 4 AUDIT REPORT")
+print("========================================")
+print(f"Local Host     : {local_hostname}")
+print(f"Local IP (L3)  : {local_ip}")
+print(f"Target Probe   : {target_probe_host}:{target_probe_port}")
+print(f"Port Reachable : {is_service_reachable}")
+print("========================================")
