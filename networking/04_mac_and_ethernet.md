@@ -2,7 +2,7 @@
 
 ## MAC Structure (48 Bits / 6 Bytes)
 * First 24 Bits: Organizationally Unique Identifier (OUI - Hardware Manufacturer)[cite: 4]
-* Last 24 Bits: Device Serial Identifier assigned by vendor[cite: 4]
+* Last 24 Bits: Device Serial Number assigned by vendor[cite: 4]
 * Addressing Types: Unicast, Multicast, Broadcast (FF:FF:FF:FF:FF:FF)[cite: 4]
 
 ## Ethernet Frame Layout (IEEE 802.3)
@@ -10,5 +10,5 @@ Preamble (7B) -> SFD (1B) -> Dest MAC (6B) -> Src MAC (6B) -> EtherType (2B) -> 
 
 ## Switching Logic
 * Switches learn incoming Source MACs and map them to physical ingress ports.
-* Switches forward frames out the specific egress port matching the Destination MAC.
-* Unknown Destination MACs trigger local segment flooding.
+* Switches forward frames out the specific egress port matching the Destination MAC[cite: 2, 4].
+* Unknown Destination MACs trigger local segment flooding[cite: 4].
