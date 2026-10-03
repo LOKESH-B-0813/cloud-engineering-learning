@@ -7,7 +7,7 @@
 * Layer 1: Network Access (Ethernet, Wi-Fi, MAC) - Physical framing and wire transmission
 
 ## Transport Mechanics
-* TCP: Connection-oriented, 3-way handshake (SYN -> SYN-ACK -> ACK), reliable retransmissions.
+* TCP: 3-Way Handshake (SYN -> SYN-ACK -> ACK), reliable retransmissions, ordered delivery.
 * UDP: Connectionless, lightweight fire-and-forget, low latency for DNS and streaming.
 
 ## Network Socket Definition
