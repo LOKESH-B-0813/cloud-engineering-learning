@@ -14,3 +14,5 @@ Hands-on practical engineering log covering Linux, Networking, Python Automation
 - [x] Day 5: IPv4 Logical Addressing & Binary Place Values
 - [x] Day 6: IPv4 Classes & Classful Addressing Limits
 - [x] Day 7: RFC 1918 Private Ranges & NAT Mechanics
+
+- [x] Day 13: ICMP Protocol Mechanics, Type Codes, and TTL Mechanics
