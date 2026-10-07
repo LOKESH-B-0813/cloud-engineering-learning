@@ -16,3 +16,5 @@ Hands-on practical engineering log covering Linux, Networking, Python Automation
 - [x] Day 7: RFC 1918 Private Ranges & NAT Mechanics
 
 - [x] Day 13: ICMP Protocol Mechanics, Type Codes, and TTL Mechanics
+
+- [x] Day 14: ARP Operations, Cache Poisoning, and Local Layer 2 Resolution
