@@ -18,3 +18,8 @@ Hands-on practical engineering log covering Linux, Networking, Python Automation
 - [x] Day 13: ICMP Protocol Mechanics, Type Codes, and TTL Mechanics
 
 - [x] Day 14: ARP Operations, Cache Poisoning, and Local Layer 2 Resolution
+
+- [x] Day 15: Layer 2 Switching Logic, CAM Table Learning & Flooding
+- [x] Day 16: VLAN Segmentation, Access Ports & IEEE 802.1Q Trunk Tagging
+- [x] Day 17: IEEE 802.1D Spanning Tree Protocol (STP) & Loop Mitigation
+- [x] Day 18: Inter-VLAN Routing & Multilayer SVI Implementations
