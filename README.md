@@ -23,3 +23,6 @@ Hands-on practical engineering log covering Linux, Networking, Python Automation
 - [x] Day 16: VLAN Segmentation, Access Ports & IEEE 802.1Q Trunk Tagging
 - [x] Day 17: IEEE 802.1D Spanning Tree Protocol (STP) & Loop Mitigation
 - [x] Day 18: Inter-VLAN Routing & Multilayer SVI Implementations
+
+- [x] Day 19: Static Routing, Administrative Distance & Longest Prefix Match
+- [x] Day 20: Dynamic Routing Protocols Architecture (IGP vs EGP, Link-State vs Distance-Vector)
