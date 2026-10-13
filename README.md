@@ -26,3 +26,6 @@ Hands-on practical engineering log covering Linux, Networking, Python Automation
 
 - [x] Day 19: Static Routing, Administrative Distance & Longest Prefix Match
 - [x] Day 20: Dynamic Routing Protocols Architecture (IGP vs EGP, Link-State vs Distance-Vector)
+
+- [x] Day 21: OSPF Link-State Routing, SPF Algorithm & Area 0 Hierarchy
+- [x] Day 22: BGP Path-Vector Architecture, AS Numbers & Autonomous Border Peering
